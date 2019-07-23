@@ -7,9 +7,8 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint"
-  },
-  "private": true,
 
+  }
   "dependencies": {
     "@angular/animations": "~8.1.1",
 
